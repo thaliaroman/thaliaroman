@@ -1,1 +1,1 @@
-![teAmoStella](./teAmoStella.jpg)
+![teAmoStella](./images/github-overview.jpg)
